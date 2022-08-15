@@ -1,9 +1,8 @@
 .align-center {
-    height: 70em;
-    width:144em;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    height: 100vh;
+    display: table;
+    margin-right: auto;
+    margin-left: auto;
     background-color: rgb(18, 17, 17);
 }
 i{
