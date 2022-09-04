@@ -53,6 +53,15 @@ i{
     color: rgb(157, 157, 147);
     padding:15px;
 }
+.input_text {
+    width: inherit;
+    background-color: inherit;
+    border: none;
+    color: aliceblue;
+}
+.input_text:focus {
+    outline: none;
+}
 .center-block{
     align-content: center;
     height: 200px;
